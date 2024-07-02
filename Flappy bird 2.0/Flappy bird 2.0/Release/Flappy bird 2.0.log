@@ -1,0 +1,12 @@
+﻿  game.cpp
+  Lives.cpp
+  main.cpp
+C:\Users\nicoa\OneDrive\Desktop\Joc Snake!\Flappy bird 2.0\game.cpp(141,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nicoa\OneDrive\Desktop\Joc Snake!\Flappy bird 2.0\game.cpp(162,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\nicoa\OneDrive\Desktop\Joc Snake!\Flappy bird 2.0\game.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+  Nivele.cpp
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 433 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Flappy bird 2.0.vcxproj -> C:\Users\nicoa\OneDrive\Desktop\Joc Snake!\Flappy bird 2.0\Release\Flappy bird 2.0.exe
